@@ -18,12 +18,16 @@ Accessible: proper labels and aria-live for errors
 
 Clean, polished layout that works well on different screen sizes
 
-# Try it out
+### Tech
+- React
+- Vite
+- Vanilla CSS
+- GitHub Pages
 
-Live demo: https://1faran-khandev.github.io/martians-login/
+### Demo
+Live: https://1faran-khandev.github.io/martians-login  
+Source: https://github.com/1faran-khandev/martians-login
 
-Test login:
-
-Email: test@example.com
-
-Password: password123
+### Notes
+This project focuses on UX, accessibility, and clarity rather than visual
+complexity, reflecting real-world B2B/devtools constraints.
